@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ra1111/ganit/static/css/main.cfb011fb.chunk.css",
+    "main.js": "/ra1111/ganit/static/js/main.c3e5ced9.chunk.js",
+    "main.js.map": "/ra1111/ganit/static/js/main.c3e5ced9.chunk.js.map",
+    "runtime-main.js": "/ra1111/ganit/static/js/runtime-main.8cc33071.js",
+    "runtime-main.js.map": "/ra1111/ganit/static/js/runtime-main.8cc33071.js.map",
+    "static/js/2.06b56c30.chunk.js": "/ra1111/ganit/static/js/2.06b56c30.chunk.js",
+    "static/js/2.06b56c30.chunk.js.map": "/ra1111/ganit/static/js/2.06b56c30.chunk.js.map",
+    "index.html": "/ra1111/ganit/index.html",
+    "precache-manifest.7b2b097ac87a914e8806dc462e9da717.js": "/ra1111/ganit/precache-manifest.7b2b097ac87a914e8806dc462e9da717.js",
+    "service-worker.js": "/ra1111/ganit/service-worker.js",
+    "static/css/main.cfb011fb.chunk.css.map": "/ra1111/ganit/static/css/main.cfb011fb.chunk.css.map",
+    "static/js/2.06b56c30.chunk.js.LICENSE.txt": "/ra1111/ganit/static/js/2.06b56c30.chunk.js.LICENSE.txt",
+    "static/media/images-ai-new.png": "/ra1111/ganit/static/media/images-ai-new.0964be90.png",
+    "static/media/index.css": "/ra1111/ganit/static/media/images-top-main-bg-320.ee335de5.jpg",
+    "static/media/images-man-frame.624447c8.svg": "/ra1111/ganit/static/media/images-man-frame.624447c8.svg",
+    "static/media/images-man-self.png": "/ra1111/ganit/static/media/images-man-self.134f2abe.png",
+    "static/media/logo.b89ff96a.svg": "/ra1111/ganit/static/media/logo.b89ff96a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc33071.js",
+    "static/js/2.06b56c30.chunk.js",
+    "static/css/main.cfb011fb.chunk.css",
+    "static/js/main.c3e5ced9.chunk.js"
+  ]
+}
