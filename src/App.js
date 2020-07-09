@@ -24,7 +24,7 @@ function App() {
                   <div className="header__hamburger visible-xs"><span /><span /><span /></div>
                   <div className="header__nav">
                     <nav className="menubar"><ul><li className="active"><a href="Ganit.html">Home</a></li>
-                        <li><a href="product.html">Product</a></li>
+                        <li><a href="http://ra111.pythonanywhere.com/">Product</a></li>
                       </ul></nav></div>
                 </section></div>
             </div>
@@ -38,7 +38,7 @@ function App() {
             <div className="row">
               <div className="col-lg-6">
                 <h1>Fighting NPA with&nbsp;AI</h1>
-                <p className="subheading">Utilize Machine Learning &amp; Artificial Intelligence. Build credit scoring models both for consumer and business&nbsp;lending.</p><a className="btn btn-primary btn-lg" href="#contact-form">Request a Demo</a>
+                <p className="subheading">Utilize Machine Learning &amp; Artificial Intelligence. Build credit scoring models both for consumer and business&nbsp;lending.</p><a className="btn btn-primary btn-lg" href="http://ra111.pythonanywhere.com/">Request a Demo</a>
               </div>
             </div>
           </div>
@@ -339,17 +339,15 @@ function App() {
                       <div className="footer-menubar">
                         <div className="hidden-xs">
                           <ul><li><a href="Ganit.html">Home</a></li>
-                            <li><a href="product.html">Product</a></li>
+                            <li><a href="http://ra111.pythonanywhere.com/">Product</a></li>
                           
                           </ul></div>
                       </div>
                     </div>
                     <div className="col-sm-2 col-sm-offset-4">
                       <div className="footer__socials hidden-xs">
-                        <ul><li><a className="in" href="https://www.linkedin.com/company/17964912/" target="_blank" /></li>
-                          <li><a className="fb" href="https://www.facebook.com/GanitAI/" target="_blank" /></li>
-                          <li><a className="tw" href="https://twitter.com/GanitAI" target="_blank" /></li>
-                        </ul></div>
+                     
+                       </div>
                     </div>
                   </div>
                 </section><section className="footer__bottomline"><div className="row">
@@ -357,7 +355,7 @@ function App() {
                       <div className="footer-menubar">
                         <div className="visible-xs">
                           <ul><li><a href="Ganit.html">Home</a></li>
-                            <li><a href="product.html">Product</a></li>
+                            <li><a href="http://ra111.pythonanywhere.com/">Product</a></li>
                           
                           </ul></div>
                       </div>
@@ -383,9 +381,8 @@ function App() {
         </footer></div>
       <div className="mob-overlay">
         <nav className="menubar"><ul><li className="active"><a href="Ganit.html">Home</a></li>
-            <li><a href="product.html">Product</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contacts.html">Contact Us</a></li>
+            <li><a href="http://ra111.pythonanywhere.com/">Product</a></li>
+            
           </ul></nav>{/* <footer><div className="footer__socials">
             <ul><li><a className="in" href="https://www.linkedin.com/company/17964912/" target="_blank" /></li>
               <li><a className="fb" href="https://www.facebook.com/GanitAI/" target="_blank" /></li>
